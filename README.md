@@ -8,7 +8,7 @@
 - The `rl_local_planner` is already tested on real logistic robot and ported the ROS but not local planner planner. For practical usages, `rl_local_planner` included the global_planner and selected the sub goal concept as look ahead, called MCAL(Mobile robot Collision Avoidance Learning)  similar with Hybrid-MRCA.
 
 
-[![Video Label](http://img.youtube.com/vi/3irGQqvsVWg/0.jpg)](https://www.youtube.com/watch?v=3irGQqvsVWg&t=12s)
+[![Video Label](http://img.youtube.com/vi/3irGQqvsVWg/0.jpg)](https://www.youtube.com/watch?v=3irGQqvsVWg&)
 
 # Requirement
 
